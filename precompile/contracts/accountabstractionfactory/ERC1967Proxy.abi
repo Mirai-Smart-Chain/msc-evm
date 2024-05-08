@@ -1,0 +1,19 @@
+[
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "implementation",
+        "type": "address"
+      },
+      {
+        "internalType": "bytes",
+        "name": "_data",
+        "type": "bytes"
+      }
+    ],
+    "stateMutability": "payable",
+    "type": "constructor"
+  }
+]
