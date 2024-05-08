@@ -19,7 +19,7 @@ import (
 
 	_ "github.com/ava-labs/subnet-evm/precompile/contracts/warp"
 	// ADD YOUR PRECOMPILE HERE
-	// _ "github.com/ava-labs/subnet-evm/precompile/contracts/yourprecompile"
+	_ "github.com/ava-labs/subnet-evm/precompile/contracts/accountabstractionfactory"
 )
 
 // This list is kept just for reference. The actual addresses defined in respective packages of precompiles.
